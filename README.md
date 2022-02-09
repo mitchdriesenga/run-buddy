@@ -12,3 +12,5 @@ https://lernatino.github.io/reun-buddy/
 
 ## Contribution
 Made with ❤️ by Mitch Driesenga
+
+### ©️2019 Run Buddy, Inc
