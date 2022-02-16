@@ -391,3 +391,23 @@ section {
 .flex-row {
   display: flex;
 }
+
+/* Media Quert for smaller desktop screens and smaller */
+
+@media screen and (max-width:980px) {
+  
+}
+
+/* Media Query For Tablets and Smaller */
+
+@media screen and (max-width: 768px) {
+
+  
+}
+
+/* Media Query For Mobile Phones and Smaller */
+
+@media screen and (max-width: 575px) {
+
+  
+}
